@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaishnaaavi
 - 👀 I’m interested in Exploring variety of domains
-- 🌱 I’m currently learning User Experience Design and Web development
+- 🌱 I’m currently learning User Experience Design and Flutter
 - 💞️ I’m looking to collaborate on UX, Code or Startup Project
 - 📫 Reach me at vaishnaaavi@gmail.com
 
